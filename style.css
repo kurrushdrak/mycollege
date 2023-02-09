@@ -1,0 +1,47 @@
+.container{
+    width:80%;
+    overflow: hidden;
+    margin:auto;
+    text-transform: capitalize;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(156, 152, 151);
+    color: rgb(204, 25, 25);
+    text-align: center;
+    font-style: normal;
+    border: 2px solid black;
+    text-transform:uppercase;
+}
+.container p{
+    color: white;
+    margin:-27px 10px 10px 10px;
+    font-family: Times New Roman;
+
+}
+.container li
+{
+    background-color:rgb(245, 245, 247);
+    color:rgb(127, 150, 46);
+    display: inline;
+    word-spacing: 3cm;
+    font-size: small;
+    font-family: Arial;
+    border-radius: 2px;
+}
+a:hover {
+    color: rgb(15, 231, 51);
+    background-color: transparent;
+    text-decoration: underline;
+
+  }
+  #box-1{
+    border: 5px solid white;
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: medium;
+    text-transform: uppercase;
+    text-decoration-color: burlywood;
+    text-justify: auto;
+    border-radius:5px;
+    background-color: rgb(65, 163, 109);
+
+  }
